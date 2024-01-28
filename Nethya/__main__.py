@@ -175,7 +175,7 @@ def start(update: Update, context: CallbackContext):
     [
         InlineKeyboardButton(text="⭐️Tools⭐️", callback_data="tools_back"),
         InlineKeyboardButton(
-            text="⭐️Bot Info⭐️", callback_data="Nethya_"
+            text="⭐️Bot Info⭐️", callback_data="AANDAVAR_"
         ),
     ],
     [
@@ -244,7 +244,7 @@ def Nethya_about_callback(update: Update, context: CallbackContext):
                      InlineKeyboardButton(text="✇Owner✇", url="t.me/The_Logical_Guy"),
                    ],
                    [
-                    InlineKeyboardButton(text="Back↩", callback_data="Nethya_back")
+                    InlineKeyboardButton(text="Back↩", callback_data="AANDAVAR_back")
                    ]
                 ]
             ),
